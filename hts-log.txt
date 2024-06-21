@@ -1,0 +1,104 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jun 2024 00:24:47 at https://7oroof.com/tfdemos/trevox/home-creative/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://7oroof.com/tfdemos/trevox/home-creative/ -O1 "C:\My Web Sites\Creative-home" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:27:17	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=290
+00:27:17	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=290 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:18	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=280
+00:27:18	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=280 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:19	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=268
+00:27:19	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=268 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:20	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=260
+00:27:20	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=260 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:27	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=249
+00:27:27	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=249 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:29	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=239
+00:27:29	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=239 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:30	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=218
+00:27:30	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=218 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:32	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=222
+00:27:32	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=222 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:37	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=153
+00:27:37	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=153 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:38	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=205
+00:27:38	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=205 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:40	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=184
+00:27:40	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=184 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:41	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=198
+00:27:41	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=198 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:47	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=159
+00:27:47	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=159 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:49	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=296
+00:27:49	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=296 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:27:50	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=303
+00:27:50	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/?add-to-wishlist=303 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:28:45	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-mouse-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+00:28:48	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-close-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+00:28:50	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-play-video-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+00:29:27	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=290
+00:29:27	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=290 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:27	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=280
+00:29:27	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=280 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:27	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=268
+00:29:27	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=268 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:28	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=260
+00:29:28	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=260 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:28	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=249
+00:29:28	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=249 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:28	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=239
+00:29:28	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=239 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:28	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=218
+00:29:28	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=218 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:29	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=222
+00:29:29	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=222 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:29	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=153
+00:29:29	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=153 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:30	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=205
+00:29:30	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=205 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:30	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=184
+00:29:30	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=184 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:30	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=198
+00:29:30	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=198 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:30	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=159
+00:29:30	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=159 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:31	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=296
+00:29:31	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=296 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:29:31	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=303
+00:29:31	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/2/?add-to-wishlist=303 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:36	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=290
+00:30:36	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=290 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:36	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=280
+00:30:36	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=280 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:36	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=268
+00:30:36	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=268 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:36	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=260
+00:30:36	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=260 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:37	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=249
+00:30:37	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=249 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:37	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=239
+00:30:37	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=239 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:37	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=218
+00:30:37	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=218 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:38	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=222
+00:30:38	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=222 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:38	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=153
+00:30:38	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=153 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:39	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=205
+00:30:39	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=205 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:39	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=184
+00:30:39	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=184 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:39	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=198
+00:30:39	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=198 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:39	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=159
+00:30:39	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=159 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:40	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=296
+00:30:40	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=296 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:30:42	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=303
+00:30:42	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-creative/page/3/?add-to-wishlist=303 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 55 seconds : 247 links scanned, 198 files written (23100125 bytes overall) [14643182 bytes received at 41248 bytes/sec], 23381985 bytes transferred using HTTP compression in 179 files, ratio 13%, 17.6 requests per connection
+(3 errors, 90 warnings, 0 messages)
