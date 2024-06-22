@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jun 2024 19:54:03 at https://7oroof.com/tfdemos/trevox/shop/cart/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://7oroof.com/tfdemos/trevox/shop/cart/ -O1 "C:\My Web Sites\Cart" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:54:11	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://7oroof.com/robots.txt (from primary/primary)
+19:54:11	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://7oroof.com/tfdemos/trevox/shop/cart/ (from primary/primary)
+19:57:25	Warning: 	Found for https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=290
+19:57:25	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=290 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+19:57:25	Warning: 	Found for https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=280
+19:57:25	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=280 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+19:57:25	Warning: 	Found for https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=268
+19:57:25	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=268 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+19:57:26	Warning: 	Found for https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=260
+19:57:26	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/shop/cart/?add-to-wishlist=260 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+19:57:28	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-mouse-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+19:57:28	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-close-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+19:57:28	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-play-video-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+19:57:30	Warning: 	Found for https://7oroof.com/tfdemos/trevox/shop/cart/?remove_item=8f121ce07d74717e0b1f21d122e04521&_wpnonce=e726143ae5
+19:57:30	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/shop/cart/?remove_item=8f121ce07d74717e0b1f21d122e04521&_wpnonce=e726143ae5 to http://7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1
+19:57:31	Warning: 	Found for https://7oroof.com/tfdemos/trevox/shop/cart/?remove_item=a4f23670e1833f3fdb077ca70bbd5d66&_wpnonce=e726143ae5
+19:57:31	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/shop/cart/?remove_item=a4f23670e1833f3fdb077ca70bbd5d66&_wpnonce=e726143ae5 to http://7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1
+19:57:31	Warning: 	Moved Permanently for 7oroof.com/robots.txt
+19:57:31	Warning: 	Redirected link is identical because of 'URL Hack' option: 7oroof.com/robots.txt and https://7oroof.com/robots.txt
+19:57:31	Warning: 	Warning moved treated for 7oroof.com/robots.txt (real one is https://7oroof.com/robots.txt)
+19:57:31	Warning: 	Moved Permanently for 7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1
+19:57:31	Warning: 	Redirected link is identical because of 'URL Hack' option: 7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1 and https://7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1
+19:57:31	Warning: 	File has moved from 7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1 to https://7oroof.com/tfdemos/trevox/shop/cart/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 28 seconds : 137 links scanned, 124 files written (5170262 bytes overall) [2192138 bytes received at 10539 bytes/sec], 5427278 bytes transferred using HTTP compression in 106 files, ratio 21%, 10.3 requests per connection
+(4 errors, 19 warnings, 0 messages)

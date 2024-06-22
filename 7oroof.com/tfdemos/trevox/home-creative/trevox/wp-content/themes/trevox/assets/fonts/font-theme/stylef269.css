@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'Trevox';
+  src:  url('fonts/Trevox2f5f.eot?6n6795');
+  src:  url('fonts/Trevox2f5f.eot?6n6795#iefix') format('embedded-opentype'),
+    url('fonts/Trevox2f5f.ttf?6n6795') format('truetype'),
+    url('fonts/Trevox2f5f.woff?6n6795') format('woff'),
+    url('fonts/Trevox2f5f.svg?6n6795#Trevox') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="trevox-icon-"], [class*=" trevox-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Trevox' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.trevox-icon-box-2:before {
+  content: "\e933";
+}
+.trevox-icon-add-button:before {
+  content: "\e900";
+}
+.trevox-icon-add:before {
+  content: "\e901";
+}
+.trevox-icon-shopping-basket:before {
+  content: "\e902";
+}
+.trevox-icon-best-price:before {
+  content: "\e903";
+}
+.trevox-icon-black-friday:before {
+  content: "\e904";
+}
+.trevox-icon-box:before {
+  content: "\e905";
+}
+.trevox-icon-calculator:before {
+  content: "\e906";
+}
+.trevox-icon-cash:before {
+  content: "\e907";
+}
+.trevox-icon-cashier-machine:before {
+  content: "\e908";
+}
+.trevox-icon-coupon:before {
+  content: "\e909";
+}
+.trevox-icon-credit-card:before {
+  content: "\e90a";
+}
+.trevox-icon-customer-service-agent:before {
+  content: "\e90b";
+}
+.trevox-icon-damaged-package:before {
+  content: "\e90c";
+}
+.trevox-icon-delivery-box:before {
+  content: "\e90d";
+}
+.trevox-icon-delivery-courier:before {
+  content: "\e90e";
+}
+.trevox-icon-delivery-truck:before {
+  content: "\e90f";
+}
+.trevox-icon-discount:before {
+  content: "\e910";
+}
+.trevox-icon-ecommerce:before {
+  content: "\e911";
+}
+.trevox-icon-exchange:before {
+  content: "\e912";
+}
+.trevox-icon-guaranteed:before {
+  content: "\e913";
+}
+.trevox-icon-laptop:before {
+  content: "\e914";
+}
+.trevox-icon-location:before {
+  content: "\e915";
+}
+.trevox-icon-money:before {
+  content: "\e916";
+}
+.trevox-icon-money1:before {
+  content: "\e917";
+}
+.trevox-icon-online-shopping:before {
+  content: "\e918";
+}
+.trevox-icon-online-store:before {
+  content: "\e919";
+}
+.trevox-icon-packaging:before {
+  content: "\e91a";
+}
+.trevox-icon-promotion:before {
+  content: "\e91b";
+}
+.trevox-icon-qr-code:before {
+  content: "\e91c";
+}
+.trevox-icon-quality:before {
+  content: "\e91d";
+}
+.trevox-icon-receipt:before {
+  content: "\e91e";
+}
+.trevox-icon-retail-store:before {
+  content: "\e91f";
+}
+.trevox-icon-sale-tag:before {
+  content: "\e920";
+}
+.trevox-icon-search:before {
+  content: "\e921";
+}
+.trevox-icon-shopping-bag:before {
+  content: "\e922";
+}
+.trevox-icon-shopping-list:before {
+  content: "\e923";
+}
+.trevox-icon-smartphone:before {
+  content: "\e924";
+}
+.trevox-icon-timer:before {
+  content: "\e925";
+}
+.trevox-icon-tracking:before {
+  content: "\e926";
+}
+.trevox-icon-transaction:before {
+  content: "\e927";
+}
+.trevox-icon-wallet:before {
+  content: "\e928";
+}
+.trevox-icon-weighing-scale:before {
+  content: "\e929";
+}
+.trevox-icon-worldwide-shipping:before {
+  content: "\e92a";
+}
+.trevox-icon-love:before {
+  content: "\e92b";
+}
+.trevox-icon-loved:before {
+  content: "\e930";
+}
+.trevox-icon-user:before {
+  content: "\e92c";
+}
+.trevox-icon-shopping-basket1:before {
+  content: "\e92d";
+}
+.trevox-icon-search1:before {
+  content: "\e92e";
+}
+.trevox-icon-eye:before {
+  content: "\e92f";
+}
+.trevox-icon-eye-fill:before {
+  content: "\e931";
+}
+.trevox-icon-quotes:before {
+  content: "\e932";
+}

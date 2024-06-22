@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+7oroof.com	TRUE	/tfdemos/trevox/	FALSE	1999999999	woocommerce_items_in_cart	1
+7oroof.com	TRUE	/tfdemos/trevox/	FALSE	1999999999	wp_woocommerce_session_4ede6938a3123f8993789b786f09633e	t_2ba248b0a6b85d4002d18b7f15044d%7C%7C1719175176%7C%7C1719171576%7C%7Ce01e591b08520aa060dc5682733a331c
+7oroof.com	TRUE	/tfdemos/trevox/	FALSE	1999999999	woocommerce_cart_hash	bde545fd2f59a7a83774548788cf0378
+
